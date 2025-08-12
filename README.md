@@ -4,7 +4,7 @@ Collection of projects exploring linear and logistic regression concepts while l
 
 ## Projects
 - [Heart Disease Prediction](./heart-disease-prediction/) - Logistic regression for binary classification
-- [Linear Regression Analysis](./linear-regression/) - Linear regression implementation
+- [House Price Prediction](./house-price-prediction/) - Linear regression implementation
 
 ## Technologies Used
 - Python 3.x
@@ -22,4 +22,3 @@ Collection of projects exploring linear and logistic regression concepts while l
 - Data preprocessing and visualization
 - Model evaluation metrics
 - Python ML workflow
-EOF
