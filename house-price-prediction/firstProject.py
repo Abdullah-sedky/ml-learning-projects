@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 import seaborn as sns
 import matplotlib.pyplot as plt
-myDataRead=pd.read_csv("files/data.csv")
+myDataRead=pd.read_csv("data/data.csv")
 myDataRead.head()
 print(myDataRead.describe())
 sns.pairplot(myDataRead) #to show relationships as graphs and predict if linear regression will work before using model, if points are in straight line, then maybe linear regression will be good
